@@ -1,0 +1,15 @@
+Comandos básicos en Git 
+
+https://ioflood.com/blog/pwd-linux-command/#:~:text=The%20'pwd'%20(print%20working,tell%20you%20where%20you%20are.
+
+cat nombre del archivo con su extensión para abrir el contenido del texto plano.
+pwd (print working directory)
+
+repetir un comando:
+ histoy
+ !111 (seguido del símbolo de admiración va el número del history)
+
+git restore <file>..." to discard changes in working directory
+
+Historial de cambios:
+git log f
