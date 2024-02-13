@@ -13,3 +13,6 @@ git restore <file>..." to discard changes in working directory
 
 Historial de cambios:
 git log f
+
+Borrar un cambion de un archivo
+git rm --cached nombreArchivo.file 
