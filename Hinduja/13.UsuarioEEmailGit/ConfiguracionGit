@@ -1,0 +1,12 @@
+ConFigurar git 
+    git config 
+
+opciones en lista 
+    git config --list
+
+SAber en dónde se están guardando las configuraciones de git 
+    git config --list --show-origin
+
+Config de modo global
+    git config --global user.name "MenaVhs"
+
