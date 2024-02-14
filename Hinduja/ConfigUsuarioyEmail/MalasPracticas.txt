@@ -1,0 +1,8 @@
+PAra salir de Vim
+:wq (w=write, q=quit)
+:!q (no guardar cambios y salir)
+
+Borrar una carpeta 
+    cd carpeta/
+    rm -rf .git
+    
