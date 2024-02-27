@@ -14,3 +14,9 @@ Bytes que cambiaron:
 @@ -0,0 +1,4 @@
 
 commit de prueba 2
+
+para salir de vim.
+skip+shift+zz
+skip + : + wq
+
+Ver diferncias
