@@ -1,0 +1,4 @@
+Mostrar lo que se modificó de un commit a otro:
+- git show
+
+modificaión extra 
