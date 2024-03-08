@@ -19,4 +19,6 @@ para salir de vim.
 skip+shift+zz
 skip + : + wq
 
-Ver diferncias
+Ver diferncias: el orden importa
+se pondrá en rojo lo del commit1 y en verde lo del commit2
+git diff commit1 commit2
