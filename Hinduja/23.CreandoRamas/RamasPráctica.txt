@@ -1,0 +1,19 @@
+el útlimo commit se reconoce como HEAD. Esto se puede ver desde el git show
+regresar del commit anterior:
+    git checkout -master
+
+    cambios en master
+  Hacer un add all más un commit 
+    git commit -am 
+
+    git log --stat
+
+
+ver las diferencias del commit actual con el anterior
+    git show
+Crear una rama
+    git branch nombreRama  
+Cambio de rama  
+    git checkout nombreRama
+
+Rama nombreRama
